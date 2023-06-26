@@ -1,1 +1,1 @@
-ooo
+#Contains 2 files, 1 is for the MacOS and the other is for non-MacOS systems. For unknown reasons, colours were not recognised in the program for MacOS and thus 2 files with slight variations needed to be made to ensure that the application is smooth.
